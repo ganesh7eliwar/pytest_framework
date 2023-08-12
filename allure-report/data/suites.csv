@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Aug 12 14:47:42 IST 2023","Sat Aug 12 14:47:50 IST 2023","7887","TestCases","test_Login_params","Test_CredKart_Login_params","","","test_CredKart_Login_params_003[data_for_login1]",""
+"passed","Sat Aug 12 14:47:42 IST 2023","Sat Aug 12 14:47:54 IST 2023","11762","TestCases","test_Login_params","Test_CredKart_Login_params","","","test_CredKart_Login_params_003[data_for_login0]",""
+"failed","Sat Aug 12 14:47:42 IST 2023","Sat Aug 12 14:47:50 IST 2023","7644","TestCases","test_Login_params","Test_CredKart_Login_params","","","test_CredKart_Login_params_003[data_for_login3]",""
+"passed","Sat Aug 12 14:47:42 IST 2023","Sat Aug 12 14:48:05 IST 2023","23019","TestCases","test_Login","Test_CredKart_Login","","","test_CredKart_Login_002",""
+"failed","Sat Aug 12 14:47:42 IST 2023","Sat Aug 12 14:47:49 IST 2023","7023","TestCases","test_Login_params","Test_CredKart_Login_params","","","test_CredKart_Login_params_003[data_for_login2]",""
+"passed","Sat Aug 12 14:47:42 IST 2023","Sat Aug 12 14:48:00 IST 2023","18079","TestCases","test_Login","Test_CredKart_Login","","","test_pageTitle_001",""
