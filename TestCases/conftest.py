@@ -24,9 +24,6 @@ def setup(browser):
         print("Launching from Edge")
     else:
         print('HeadlessMode')
-        # chrome_options = webdriver.ChromeOptions()
-        # chrome_options.add_argument("headless")
-        # driver = webdriver.Chrome(options=chrome_options)
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument("headless")
         driver = webdriver.Chrome(options=chrome_options)
